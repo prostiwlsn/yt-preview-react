@@ -7,7 +7,7 @@ export default {
       colors: {
         gatoroboto: {
           50: '#fcffcc',
-          100: '#0a2e44'
+          100: '#0a2e44',
         }
       }
     },
