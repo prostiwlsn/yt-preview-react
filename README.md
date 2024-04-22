@@ -1,6 +1,6 @@
 # yt-preview
 
-A project i made in a weekend to test react
+A project i made in a weekend to start learning react
 
 ## React + Vite
 
