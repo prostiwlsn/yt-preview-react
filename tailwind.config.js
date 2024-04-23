@@ -6,8 +6,8 @@ export default {
     extend: {
       colors: {
         gatoroboto: {
-          50: '#fcffcc',
-          100: '#0a2e44',
+          50: '#ffffff',
+          100: '#ff4800',
         }
       }
     },
