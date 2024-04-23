@@ -1,4 +1,6 @@
-const apiKey = "API_KEY"
+import appsettings from "../appsettings.json"
+
+const apiKey = appsettings.api_key
 
 const part = "snippet"
 
